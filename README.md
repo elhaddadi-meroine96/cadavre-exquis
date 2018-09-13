@@ -6,4 +6,4 @@ le visage cachée par le grand chapeau.
 Le pigeon effrayé prit peur et s'envola plus loin, la vieille dame s'assit sur un banc et sortit un petit sac en papier. 
 Le pigeon cru enfin avoir trouver de quoi se rassaisallier, jusqu'a qu'il s'aperçut qu'avec ce sac en papier.
 
-# La vieille dame tentit de l'attraper..
+### La vieille dame essaya de l'attraper..
